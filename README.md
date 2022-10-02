@@ -40,3 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DSD-Games&hide_border=)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSD-Games&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
