@@ -4,7 +4,7 @@
 
 ### Feedback
 #### VK: [D.S.D Games](https://vk.com/dsdgames)
-#### Mail.ru: [D.S.D Games](den4oman@mail.ru)
+#### Mail.ru: den4oman@mail.ru
 
 </div>
 <div align="right">
