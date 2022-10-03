@@ -1,7 +1,4 @@
 <div align="left">
-    <div align="right" id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
-</div>
     <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 </div>
@@ -22,6 +19,7 @@
 ### Feedback
 #### VK: [D.S.D Games](https://vk.com/dsdgames)
 #### Mail.ru: den4oman@mail.ru 
+#### Telegram: [D.S.D Games](https://t.me/dsdgames)
 
 <div id="view-panel" bakground-color="red" align="center">
  <img  src="https://sarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -33,11 +31,12 @@
 :man_technologist: About Me :
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Game Developer and Application Developer an programming language C# and C++
+ Developing games an engine Unity.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring and Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 ---
 
