@@ -1,13 +1,18 @@
+<table cellpadding="0">
+    <tr>
+        <td>
+            <div align="left">
+  
 ### :wave: Hi there, I'm Denis 
-<div>
-:man_technologist: I am currently Game Developer and Application Developer an programming language C# and C++
+:man_technologist: I am currently Game Developer and Application Developer an programming language C# and C++ 
 
 ### Feedback
 #### VK: [D.S.D Games](https://vk.com/dsdgames)
-#### Mail.ru: den4oman@mail.ru
-
+#### Mail.ru: den4oman@mail.ru 
 </div>
-<div align="right">
+        </td>
+        <td>
+          
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 </div>
@@ -20,6 +25,12 @@
   <img src="https://komarev.com/ghpvc/?username=DSD-Games&style=flat-square&color=blue" alt="" width="160"/>
  </div>
 </div>
+        </td>
+    </tr>
+</table>
+ 
+
+
 
 <div id="view-panel" bakground-color="red" align="center">
  <img  src="https://sarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
