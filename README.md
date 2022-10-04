@@ -15,6 +15,8 @@
     
  ### :wave: Hi there, I'm Denis
 :man_technologist: I am currently Game Developer and Application Developer an programming language C# and C++ 
+:brain: I am the director of my development studio D.S.D Games, where I and my admins are.  
+:handshake: You can write to me on social networks for recruitment to my studio.  I'm also a developer with free time) But it's not long...
 
 ### Feedback
 #### VK: [D.S.D Games](https://vk.com/dsdgames)
