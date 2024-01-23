@@ -15,13 +15,13 @@
     
  ### :wave: Hi there, I'm Denis
 :man_technologist: I am currently Game Developer and Application Developer an programming language C# and C++ 
-:brain: I am the director of my development studio D.S.D Games, where I and my admins are.  
+:brain: I am the director of my development studio Bunch Software, where I and my admins are.  
 :handshake: You can write to me on social networks for recruitment to my studio.  I'm also a developer with free time) But it's not long...
 
 ### Feedback
-#### VK: [D.S.D Games](https://vk.com/dsdgames)
+#### VK: [Bunch Software]([https://vk.com/dsdgames](https://vk.com/bunch_software))
 #### Mail.ru: den4oman@mail.ru 
-#### Telegram: [D.S.D Games](https://t.me/dsdgames)
+#### Telegram: [Bunch Software]([https://t.me/bunch_software])
 
 <div id="view-panel" bakground-color="red" align="center">
  <img  src="https://sarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
